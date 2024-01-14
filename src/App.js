@@ -11,7 +11,7 @@ class App extends Component {
           <h2>Welcome to React</h2>
         </div>
         <p className="App-intro">
-          Hello from gochezj
+        This app was deployed by GitHub automatically for gochezj
         </p>
       </div>
     );
